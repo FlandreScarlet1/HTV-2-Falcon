@@ -2,7 +2,7 @@ Update: At the moment testing out RO configs and reduced the size of the HTV-2 f
 
 Still WIP at the moment so it wont be released just yet also will have to work on better configuring the rcs.
 
-Future: Planning to eventually remaster it by making it better modeled once I get more experience in making mods
+Future: Planning to eventually remaster it by making it better modeled once I get more experience in making mods.
 
 Still learning how to make models on blender and learning how to make mods for ksp stock/RO so it will take time to fulfil these things hopefully.
 
